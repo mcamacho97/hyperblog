@@ -2,4 +2,4 @@ Este es mi primer documento de texto plano
 
 PARA EL CURSO DE GIT EN PLATZI
 
-POR Mauricio Camacho
+POR Mauricio Camacho, tengo 25 años
