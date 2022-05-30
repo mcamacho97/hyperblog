@@ -6,6 +6,4 @@ POR Mauricio Camacho, tengo 25 años
 
 Vamos a agregar un nuevo párrafo a nuestra historia
 
-Hoy fue el partido del madrid y no lo vi
-
-Hoy hablaremos de su vidas y de su nueva carrera
+Mañana nos enfocaremos en su vida laboral
